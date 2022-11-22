@@ -1,0 +1,22 @@
+.mr-3 button{
+    margin-right: 5px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.multiple-select{
+    cursor: pointer;
+}
+
+.ms-parent.form-control .ms-choice>span{
+    cursor: pointer;
+    background: none;
+}
+
+
+td img{
+    width: 160px;
+    height: auto;
+}
